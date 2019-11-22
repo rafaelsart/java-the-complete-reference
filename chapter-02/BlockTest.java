@@ -1,5 +1,5 @@
 /**
- * BlockTest
+ * BlockTest - testing
  */
 public class BlockTest {
 
